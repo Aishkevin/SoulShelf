@@ -85,5 +85,5 @@ We may update our Privacy Policy from time to time to align with legal requireme
 
 If you have any questions, concerns, or requests regarding this Privacy Policy, your account termination, or data erasure, please do not hesitate to contact us:
 
-* **Developer:** [Aishwarya Sri / Your Name]
+* **Developer:** [Aishwarya Sri / Aishwarya]
 * **Contact Email:** aishwaryasri234@gmail.com
